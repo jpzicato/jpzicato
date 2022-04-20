@@ -9,6 +9,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <br/>
 
 <h2>Lenguajes, librerías y herramientas</h2>
+<br/>
 <div align="center">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="70" height="70"/>
@@ -36,7 +37,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <br/>
 
 <h2>Otras tecnologías</h2>
-
+<br/>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="70" height="70"/>
