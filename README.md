@@ -54,7 +54,6 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <h3> Swiss Medical Group - Panel de Administración </h3>
 
 <p align="center">
-<!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= 770%"> -->
  
  Aplicación que permite a las áreas de negocio la administración de los usuarios registrados en la web de clientes. Se realizó en 4 semanas 
  y contó con la participación de 4 desarrolladores.
@@ -65,7 +64,6 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 [<h3> E-commerce </h3>](https://github.com/jpzicato/E-commerce-P5)
  
  <p align="center">
-<!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%"> -->
  
  Tienda de comercio virtual con funcionalidad completa de carrito. Se realizó en 2 semanas 
  y contó con la participación de 5 desarrolladores.
@@ -77,7 +75,6 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 [<h3> TMDB </h3>](https://github.com/jpzicato/tmdb)
 
  <p align="center">
-<!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%"> -->
  
  Aplicación que utiliza la API de https://www.themoviedb.org/ y que permite buscar, listar y agregar a favoritos películas y series de TV. 
  Se realizó en 1 semana. Proyecto individual.
