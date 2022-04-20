@@ -54,20 +54,32 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  
  Aplicación que permite a las áreas de negocio la administración de los usuarios registrados en la web de clientes. Se realizó en 4 semanas 
  y contó con la participación de 4 desarrolladores.
- Desarrollado con React, Redux, Express.js, Sequelize.js, Microsoft SQL Server, JWT.
+ Desarrollado con React, Redux, Express.js, Sequelize.js, Microsoft SQL Server y JWT.
                                                                                            
  </p>
 <hr></hr>
  
-[<h3> The Quizz App</h3>](https://github.com/Alonxx/quizzapp/)
+[<h3> E-commerce </h3>](https://github.com/Alonxx/quizzapp/)
  
  <p align="center">
-<img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%">
+<!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%"> -->
  
- Trivia game web application. Created with React.js consuming data from a public API.
+ Tienda de comercio virtual con funcionalidad completa de carrito. Se realizó en 2 semanas 
+ y contó con la participación de 5 desarrolladores.
+ Desarrollado con React, Redux, Express.js, Sequelize.js, PostgreSQL y Passport.
+   
+ </p>
+ <hr></hr>
+
+[<h3> TMDB </h3>](https://github.com/Alonxx/quizzapp/)
+
+ <p align="center">
+<!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%"> -->
  
-  [<h4>You can see it by clicking here</h4>](https://alonxx.github.io/quizzapp/)
-  
+ Aplicación que utiliza la API de https://www.themoviedb.org/ y que permite buscar, listar y agregar a favoritos películas y series de TV. 
+ Se realizó en 1 semana. Proyecto individual.
+ Desarrollado con React, Redux, Express.js, Sequelize.js, PostgreSQL y Passport.
+   
  </p>
  <hr></hr>
 
