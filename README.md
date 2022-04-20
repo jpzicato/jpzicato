@@ -16,6 +16,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="70" height="70" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="70" height="70"/>
 
@@ -25,7 +26,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="70" height="70"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="PostgreSQL" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>
 
 </div>
 
@@ -39,6 +40,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="70" height="70"/>
 
 <br/>
 
