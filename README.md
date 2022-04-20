@@ -4,12 +4,11 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Web+Developer;HTML%2C+CSS%2C+Javascript;React.js%2C+Redux%2C+Node.js%2C+Express.js;MongoDB%2C+PostgreSQL&center=true">
 </p>
 
-Finances and investments lover 📈 living in Argentina 🇦🇷. <br/>
-I'm a team player who likes challenges and adapts to changes. #StudentModeAlways📚
+Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos conocimientos y experiencias, y de formar parte de proyectos que desafíen mi capacidad de resolución de problemas. <br/>
 
 <br/>
 
-<h2>Languages, libraries and tools</h2>
+<h2>Lenguajes, librerías y herramientas</h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="70" height="70"/>
 
