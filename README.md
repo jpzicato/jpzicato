@@ -41,7 +41,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="70" height="70"/>
 </div>
 <br/>
 
@@ -83,7 +83,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  </p>
  <hr></hr>
 
-<h2> 🤝🏻 Contactame </h2>
+<h2> 🤝🏻 Contáctame </h2>
  
 - https://www.linkedin.com/in/juan-pablo-zicato/<br/>
 
