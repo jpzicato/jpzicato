@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Desarrollador+Full+Stack+PERN&center=true">
 </p>
 
-Soy desarrollador de Argentina apasionado por descubrir e incorporar nuevos conocimientos y de formar parte de proyectos que desafíen mi capacidad de resolución de problemas. <br/>
+Soy un apasionado por descubrir e incorporar nuevos conocimientos y de formar parte de proyectos que desafíen mi capacidad de resolución de problemas. <br/>
 
 <br/>
 
