@@ -50,15 +50,14 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 
 <h2> Proyectos </h2>
 
-[<h3> Swiss Medical Group - Panel de Administración </h3>](https://github.com/Alonxx/Pokemon-Companion-App/)
+<h3> Swiss Medical Group - Panel de Administración </h3>
 
 <p align="center">
 <!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= 770%"> -->
  
  Aplicación que permite a las áreas de negocio la administración de los usuarios registrados en la web de clientes. Se realizó en 4 semanas 
  y contó con la participación de 4 desarrolladores.
- Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, Microsoft SQL Server y JWT.
-                                                                                           
+ Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, Microsoft SQL Server, JWT, Mocha y Chai. El repositorio del proyecto es privado.                                                                                         
  </p>
 <hr></hr>
  
