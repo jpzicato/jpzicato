@@ -1,7 +1,7 @@
 <h2 align="center"> Hola! Soy Juan Pablo Zicato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
  <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Desarrollador+Full+Stack+PERN;HTML%2C+CSS%2C+Javascript;React%2C+Redux%2C+Sass%2C+styled-components;Node.js%2C+Express.js%2C+Sequelize%2C+PostgreSQL&center=true">
+ <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Desarrollador+Full+Stack+PERN&center=true">
 </p>
 
 Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos conocimientos y de formar parte de proyectos que desafíen mi capacidad de resolución de problemas. <br/>
