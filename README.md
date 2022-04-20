@@ -62,7 +62,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  </p>
 <hr></hr>
  
-[<h3> E-commerce </h3>](https://github.com/Alonxx/quizzapp/)
+[<h3> E-commerce </h3>](https://github.com/jpzicato/E-commerce-P5)
  
  <p align="center">
 <!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%"> -->
@@ -74,7 +74,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  </p>
  <hr></hr>
 
-[<h3> TMDB </h3>](https://github.com/Alonxx/quizzapp/)
+[<h3> TMDB </h3>](https://github.com/jpzicato/tmdb)
 
  <p align="center">
 <!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/thequizzapp/quizz.png" width= 770%"> -->
