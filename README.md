@@ -67,7 +67,7 @@ Soy desarrollador de Argentina apasionado por descubrir e incorporar nuevos cono
  
  Tienda de comercio virtual con funcionalidad completa de carrito. Se realizó en 2 semanas 
  y contó con la participación de 5 desarrolladores.
- Desarrollado con React, Redux, styled-components, Material-UI, Express.js, Sequelize.js, PostgreSQL y Passport.
+ Desarrollado con React, Redux, styled-components, Material-UI, Express.js, Sequelize.js, PostgreSQL y Passport.js.
    
  </p>
  <hr></hr>
@@ -78,7 +78,7 @@ Soy desarrollador de Argentina apasionado por descubrir e incorporar nuevos cono
  
  Aplicación que utiliza la API de https://www.themoviedb.org/ y que permite buscar, listar y agregar a favoritos películas y series de TV. 
  Se realizó en 1 semana. Proyecto individual.
- Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, PostgreSQL y Passport.
+ Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, PostgreSQL y Passport.js.
    
  </p>
  <hr></hr>
