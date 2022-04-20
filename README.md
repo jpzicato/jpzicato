@@ -41,20 +41,21 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="70" height="70"/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="70" height="70"/>
+</div>
 <br/>
 
-<h2> Projects </h2>
+<h2> Proyectos </h2>
 
-[<h3> Pokemon Companion App </h3>](https://github.com/Alonxx/Pokemon-Companion-App/)
+[<h3> Swiss Medical Group - Panel de Administración </h3>](https://github.com/Alonxx/Pokemon-Companion-App/)
 
 <p align="center">
-<img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= 770%">
+<!-- <img src= "https://www.alonsodiaz.dev/images/carrousel/pokemonapp/ladingpage.png" width= 770%"> -->
  
- Web application to search, obtain information and add Pokemons. Created with React.js, Redux, Express, Sequelize, PostgreSQL
-                                                                                          
- [<h4>You can see it by clicking here</h4>](https://pokemon-companionapp.herokuapp.com/)
- 
+ Aplicación que permite a las áreas de negocio la administración de los usuarios registrados en la web de clientes. Se realizó en 4 semanas 
+ y contó con la participación de 4 desarrolladores.
+ Desarrollado con React, Redux, Express.js, Sequelize.js, Microsoft SQL Server, JWT.
+                                                                                           
  </p>
 <hr></hr>
  
