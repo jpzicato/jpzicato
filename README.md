@@ -27,6 +27,9 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="70" height="70"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="70" height="70"/>
 
 </div>
 
@@ -40,7 +43,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="70" height="70"/>
 </div>
 <br/>
@@ -54,7 +57,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  
  Aplicación que permite a las áreas de negocio la administración de los usuarios registrados en la web de clientes. Se realizó en 4 semanas 
  y contó con la participación de 4 desarrolladores.
- Desarrollado con React, Redux, Express.js, Sequelize.js, Microsoft SQL Server y JWT.
+ Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, Microsoft SQL Server y JWT.
                                                                                            
  </p>
 <hr></hr>
@@ -66,7 +69,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  
  Tienda de comercio virtual con funcionalidad completa de carrito. Se realizó en 2 semanas 
  y contó con la participación de 5 desarrolladores.
- Desarrollado con React, Redux, Express.js, Sequelize.js, PostgreSQL y Passport.
+ Desarrollado con React, Redux, styled-components, Material-UI, Express.js, Sequelize.js, PostgreSQL y Passport.
    
  </p>
  <hr></hr>
@@ -78,7 +81,7 @@ Soy un desarrollador de Argentina apasionado por descubrir e incorporar nuevos c
  
  Aplicación que utiliza la API de https://www.themoviedb.org/ y que permite buscar, listar y agregar a favoritos películas y series de TV. 
  Se realizó en 1 semana. Proyecto individual.
- Desarrollado con React, Redux, Express.js, Sequelize.js, PostgreSQL y Passport.
+ Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, PostgreSQL y Passport.
    
  </p>
  <hr></hr>
