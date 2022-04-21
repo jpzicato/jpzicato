@@ -51,13 +51,13 @@ Soy un apasionado por descubrir e incorporar nuevos conocimientos y de formar pa
 
 <h2> Proyectos </h2>
 
-<h3> Swiss Medical Group - Panel de Administración </h3>
+<h3> Panel de Administración - Swiss Medical Group </h3>
 
 <p align="center">
  
  Aplicación que permite a las áreas de negocio la administración de los usuarios registrados en la web de clientes. Se realizó en 4 semanas 
  y contó con la participación de 4 desarrolladores.
- Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, Microsoft SQL Server, JWT, Mocha y Chai. El repositorio del proyecto es privado.                                                                                         
+ Desarrollado con React, Redux, styled-components, Express.js, Sequelize.js, Microsoft SQL Server, JWT. Mocha y Chai para el testeo del back-end. El repositorio del proyecto es privado.                                                                                         
  </p>
 <hr></hr>
  
